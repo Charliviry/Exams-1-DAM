@@ -25,5 +25,3 @@ ON clientes.Codigo_de_cliente = pedidos.Codigo_de_cliente
 WHERE pedidos.Codigo_de_cliente IS NULL
 ```
 ---
-# References
-Videos profe
