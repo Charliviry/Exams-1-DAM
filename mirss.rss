@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Spoilers</title>
+		<link>http://www.decine.es</link>
+		<description>Es una web de cine con miles de críticas de películas, 
+		DVD y series de TV.
+		</description>
+		<item>
+			<title>Noticias de Cinemanía</title>
+			<link>https://www.20minutos.es/cinemania/noticias/</link>
+			<description>Últimas noticias sobre el mundo del cine</description>
+		</item>
+		<item>
+			<title>Noticias de estrenos de cine</title>
+			<link>https://decine21.com/estrenos/cine-de-la-semana</link>
+			<description>Los últimos estrenos de la semana</description>
+		</item>
+		<item>
+			<title>ESPINOF</title>
+			<link>https://www.espinof.com</link>
+			<description>Espinof, últimas noticias de cine, televisión 
+			y series: Actualidad cinematográfica, estrenos en cartelera, 
+			premios, rodajes, nuevas películas y audiencias.
+			</description>
+		</item>
+	</channel>
+</rss>
